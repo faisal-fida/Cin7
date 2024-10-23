@@ -1,0 +1,290 @@
+{
+  "id": 32166,
+  "parent_id": 0,
+  "status": "processing",
+  "currency": "BHD",
+  "version": "9.3.3",
+  "prices_include_tax": true,
+  "date_created": "2024-10-23T08:34:30",
+  "date_modified": "2024-10-23T08:34:31",
+  "discount_total": "0.000",
+  "discount_tax": "0.000",
+  "shipping_total": "0.000",
+  "shipping_tax": "0.000",
+  "cart_tax": "0.000",
+  "total": "14.990",
+  "total_tax": "0.000",
+  "customer_id": 1,
+  "order_key": "wc_order_1P0ByqxpiCgbp",
+  "billing": {
+    "first_name": "Test Order",
+    "last_name": "",
+    "company": "",
+    "address_1": "-",
+    "address_2": "",
+    "city": "Bahrain",
+    "state": "",
+    "postcode": "",
+    "country": "BH",
+    "email": "0973sf@gmail.com",
+    "phone": "+97334151415"
+  },
+  "shipping": {
+    "first_name": "Test Order",
+    "last_name": "",
+    "company": "",
+    "address_1": "-",
+    "address_2": "",
+    "city": "Bahrain",
+    "state": "",
+    "postcode": "",
+    "country": "BH",
+    "phone": ""
+  },
+  "payment_method": "cod",
+  "payment_method_title": "Cash Payment",
+  "transaction_id": "",
+  "customer_ip_address": "182.183.2.28",
+  "customer_user_agent": "Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/130.0.0.0 Safari\\/537.36",
+  "created_via": "checkout",
+  "customer_note": "Test Order",
+  "date_completed": null,
+  "date_paid": null,
+  "cart_hash": "243422fe155b7105692975c0b8251e63",
+  "number": "32166",
+  "meta_data": [
+    { "id": 1294346, "key": "_alg_wc_cog_order_cost", "value": "12.5" },
+    { "id": 1294381, "key": "is_vat_exempt", "value": "no" },
+    { "id": 1294382, "key": "_alg_wc_cog_order_items_cost", "value": "12.5" },
+    { "id": 1294383, "key": "_alg_wc_cog_order_profit", "value": "2.49" },
+    {
+      "id": 1294384,
+      "key": "_alg_wc_cog_order_profit_percent",
+      "value": "19.92"
+    },
+    {
+      "id": 1294385,
+      "key": "_alg_wc_cog_order_profit_margin",
+      "value": "16.611074049366"
+    },
+    { "id": 1294386, "key": "_alg_wc_cog_order_price", "value": "14.99" },
+    {
+      "id": 1294388,
+      "key": "Delivery Date",
+      "value": "Wednesday, October 23, 2024"
+    },
+    { "id": 1294389, "key": "_orddd_lite_timestamp", "value": "1729641600" },
+    { "id": 1294390, "key": "Time Slot", "value": "01:00 PM - 04:00 PM" },
+    { "id": 1294391, "key": "_orddd_time_slot", "value": "13:00 - 16:00" },
+    {
+      "id": 1294392,
+      "key": "_orddd_lite_timeslot_timestamp",
+      "value": "1729688400"
+    },
+    { "id": 1294393, "key": "_total_delivery_charges", "value": "0" },
+    { "id": 1294394, "key": "_wlr_order_language", "value": "en_US" },
+    { "id": 1294395, "key": "frontendorder", "value": "1" },
+    { "id": 1294396, "key": "trp_language", "value": "en_US" },
+    {
+      "id": 1294397,
+      "key": "_wc_order_attribution_source_type",
+      "value": "typein"
+    },
+    {
+      "id": 1294398,
+      "key": "_wc_order_attribution_referrer",
+      "value": "https:\\/\\/computia.me\\/wp-admin\\/admin.php?page=wc-settings&tab=advanced&section=webhooks"
+    },
+    {
+      "id": 1294399,
+      "key": "_wc_order_attribution_utm_source",
+      "value": "(direct)"
+    },
+    {
+      "id": 1294400,
+      "key": "_wc_order_attribution_session_entry",
+      "value": "https:\\/\\/computia.me\\/"
+    },
+    {
+      "id": 1294401,
+      "key": "_wc_order_attribution_session_start_time",
+      "value": "2024-10-23 05:33:47"
+    },
+    {
+      "id": 1294402,
+      "key": "_wc_order_attribution_session_pages",
+      "value": "3"
+    },
+    {
+      "id": 1294403,
+      "key": "_wc_order_attribution_session_count",
+      "value": "1"
+    },
+    {
+      "id": 1294404,
+      "key": "_wc_order_attribution_user_agent",
+      "value": "Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/130.0.0.0 Safari\\/537.36"
+    },
+    {
+      "id": 1294405,
+      "key": "_wc_order_attribution_device_type",
+      "value": "Desktop"
+    },
+    { "id": 1294406, "key": "nwa_after_checkout", "value": "sent" },
+    { "id": 1294407, "key": "nwa_after_checkout_seller", "value": "sent" },
+    { "id": 1294408, "key": "_wwpp_order_type", "value": "retail" },
+    { "id": 1294409, "key": "_wwpp_wholesale_order_type", "value": "" },
+    { "id": 1294410, "key": "kirim_wa_ke", "value": "0" },
+    { "id": 1294411, "key": "nwa_apk_order", "value": "kosong" },
+    { "id": 1294412, "key": "cs_rotator", "value": "belum" },
+    {
+      "id": 1294413,
+      "key": "terakhir_kirim_wa",
+      "value": "2024-10-23 08:34:31"
+    },
+    {
+      "id": 1294414,
+      "key": "reminder_time_terakhir",
+      "value": "2024-10-23 08:34:31"
+    },
+    { "id": 1294415, "key": "nwa_payment_method", "value": "Cash Payment" },
+    {
+      "id": 1294416,
+      "key": "_wcpdf_invoice_settings",
+      "value": {
+        "display_shipping_address": "when_different",
+        "display_phone": "1",
+        "display_customer_notes": "1",
+        "header_logo": "4128",
+        "header_logo_height": "1cm",
+        "vat_number": "",
+        "coc_number": "",
+        "shop_name": { "default": "" },
+        "shop_address": { "default": "Bahrain, Riffa\\r\\n+973 34151415" },
+        "footer": {
+          "default": "One-year warranty granted from Computia.me.\\r\\nTerms and conditions applied."
+        },
+        "extra_1": { "default": "" },
+        "extra_2": { "default": "" },
+        "extra_3": { "default": "" }
+      }
+    },
+    {
+      "id": 1294417,
+      "key": "_wcpdf_invoice_display_date",
+      "value": "invoice_date"
+    },
+    {
+      "id": 1294418,
+      "key": "_wcpdf_invoice_creation_trigger",
+      "value": "email_attachment"
+    },
+    { "id": 1294419, "key": "_wcpdf_invoice_date", "value": "1729661672" },
+    {
+      "id": 1294420,
+      "key": "_wcpdf_invoice_date_formatted",
+      "value": "2024-10-23 08:34:32"
+    },
+    { "id": 1294421, "key": "_wcpdf_invoice_number", "value": "10910" },
+    {
+      "id": 1294422,
+      "key": "_wcpdf_invoice_number_data",
+      "value": {
+        "number": 10910,
+        "formatted_number": "10910",
+        "prefix": "",
+        "suffix": "",
+        "document_type": "invoice",
+        "order_id": 32166,
+        "padding": ""
+      }
+    },
+    {
+      "id": 1294423,
+      "key": "_googlesitekit_ga_purchase_event_tracked",
+      "value": "1"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 39698,
+      "name": "Logitech G203 Wired Gaming Mouse - Black",
+      "product_id": 1078,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "zero-rate",
+      "subtotal": "14.990",
+      "subtotal_tax": "0.000",
+      "total": "14.990",
+      "total_tax": "0.000",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 462128,
+          "key": "_alg_wc_cog_item_cost",
+          "value": "12.5",
+          "display_key": "_alg_wc_cog_item_cost",
+          "display_value": "12.5"
+        },
+        {
+          "id": 462135,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "77678",
+      "price": 14.99,
+      "image": {
+        "id": "1896",
+        "src": "https:\\/\\/computia.me\\/wp-content\\/uploads\\/2022\\/12\\/Untitled-2022-12-13T185500.329.jpeg"
+      },
+      "parent_name": null
+    }
+  ],
+  "tax_lines": [],
+  "shipping_lines": [
+    {
+      "id": 39699,
+      "method_title": "Pick up (A'Ali)",
+      "method_id": "free_shipping",
+      "instance_id": "1",
+      "total": "0.000",
+      "total_tax": "0.000",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 462134,
+          "key": "Items",
+          "value": "Logitech G203 Wired Gaming Mouse - Black &times; 1",
+          "display_key": "Items",
+          "display_value": "Logitech G203 Wired Gaming Mouse - Black &times; 1"
+        }
+      ]
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [],
+  "refunds": [],
+  "payment_url": "https:\\/\\/computia.me\\/checkout\\/order-pay\\/32166\\/?pay_for_order=true&key=wc_order_1P0ByqxpiCgbp",
+  "is_editable": false,
+  "needs_payment": false,
+  "needs_processing": true,
+  "date_created_gmt": "2024-10-23T05:34:30",
+  "date_modified_gmt": "2024-10-23T05:34:31",
+  "date_completed_gmt": null,
+  "date_paid_gmt": null,
+  "currency_symbol": ".\\u062f.\\u0628",
+  "_links": {
+    "self": [
+      { "href": "https:\\/\\/computia.me\\/wp-json\\/wc\\/v3\\/orders\\/32166" }
+    ],
+    "collection": [
+      { "href": "https:\\/\\/computia.me\\/wp-json\\/wc\\/v3\\/orders" }
+    ],
+    "customer": [
+      { "href": "https:\\/\\/computia.me\\/wp-json\\/wc\\/v3\\/customers\\/1" }
+    ]
+  }
+}
